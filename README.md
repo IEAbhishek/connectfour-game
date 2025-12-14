@@ -14,7 +14,7 @@ A classic Connect Four game built with HTML, CSS, and JavaScript with support fo
 
 ## How to Play
 
-1. Open `menu.html` in a web browser to select your game mode
+1. Open https://ieabhishek.github.io/connectfour-game/ in a web browser to select your game mode
 2. Choose between:
    - **Player vs Player**: Two players take turns on the same device
    - **Player vs Computer**: Play against an AI opponent (you play as Red, computer plays as Yellow)
@@ -34,12 +34,4 @@ A classic Connect Four game built with HTML, CSS, and JavaScript with support fo
 - Responsive design that works on different screen sizes
 - Column full detection (prevents dropping in full columns)
 - Automatic win and draw detection
-
-## Files
-
-- `index.html` - Game mode selection page (entry point)
-- `game.html` - Main game HTML structure
-- `styles.css` - Styling and animations
-- `script.js` - Game logic, AI, and interactivity
-- `menu.js` - Menu navigation script
 
